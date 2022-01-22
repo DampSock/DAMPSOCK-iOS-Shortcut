@@ -1,2 +1,5 @@
-# DAMPSOCK-iOS-Shortcut
-iOS Shortcut - DampSock
+# 🄳🄰🄼🄿🅂🄾🄲🄺 
+## iOS Shortcut - DampSock
+
+DAMPSOCK-iOS-Shortcut
+
