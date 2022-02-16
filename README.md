@@ -3,5 +3,5 @@
 
 DAMPSOCK-iOS-Shortcut
 
-[iCloud URL](https://www.icloud.com/shortcuts/b3dc408a637b4ddd8aa7727246cbc5a4)
+[iCloud URL](https://www.icloud.com/shortcuts/86bdc72e6b7140dc944bf72083b5ce48)
 
